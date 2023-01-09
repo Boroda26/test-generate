@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{610:function(t,n,e){"use strict";e.r(n);var c={},r=e(46),component=Object(r.a)(c,(function(){this._self._c;return this._m(0)}),[function(){var t=this._self._c;return t("div",{staticClass:"text-center py-5 my-5"},[t("h1",[this._v("kangacoffee.ru")])])}],!1,null,null,null);n.default=component.exports}}]);
