@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/products/new", {data:[{}],fetch:{"0":{product:{type:void 0},productTypeOptions:[{text:"Кофе",value:"coffee"},{text:"Чай",value:"tea"},{text:"Аксессуары",value:"accessory"}],productTypeOfTeaOptions:["Зеленый","Черный","Красный фруктовый","Матча"]}},mutations:[]});
